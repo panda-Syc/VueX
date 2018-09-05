@@ -1,0 +1,5 @@
+export const SOME_MUTATION = 'SOME_MUTATION'
+
+export const SET_PLAYING_STATE = 'SET_PLAYING_STATE'
+
+export const SET_FULL_SCREEN = 'SET_FULL_SCREEN'
